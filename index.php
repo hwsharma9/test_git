@@ -1,3 +1,9 @@
 <?php 
-	echo phpinfo();
+class testClass
+{
+	function __construct()
+	{
+		echo "Testing";
+	}
+}
 ?>
