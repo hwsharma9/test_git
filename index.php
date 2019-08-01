@@ -3,7 +3,7 @@ class testClass
 {
 	function __construct()
 	{
-		echo "Testing working";
+		echo "Testing working changes done";
 	}
 }
 ?>
